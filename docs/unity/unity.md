@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Unity
-nav_order: 1
+nav_order: 3
 has_children: true
 permalink: /docs/unity
 ---
-# En gros
+# Unity
 Unity est un moteur de jeu 2D et 3D.

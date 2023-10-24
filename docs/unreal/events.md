@@ -3,17 +3,16 @@ layout: default
 title: Events
 parent: Unreal
 ---
-
 # Events
+{: .no-toc }
+Souvent, il va être trop couteux de vérifier la valeur d'une variable en tick dans l'attente que celle-ci change.
+Par exemple, avec un component de vision, on ne va demander en tick au component si il a vu quelque-chose, on va plutôt utiliser un évènement.
+
 ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
-
-## En gros
-Souvent, il va être trop couteux de vérifier la valeur d'une variable en tick dans l'attente que celle-ci change.
-Par exemple, avec un component de vision, on ne va demander en tick au component si il a vu quelque-chose, on va plutôt utiliser un évènement.
 
 ## Declaration
 Une évènement est constitué de 3 choses :
