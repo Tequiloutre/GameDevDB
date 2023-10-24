@@ -4,9 +4,6 @@ theme: just-the-docs
 
 url: https://tequiloutre.github.io/GameDevDB
 
-aux_links:
-  Template Repository: https://tequiloutre.github.io/GameDevDB
-
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
