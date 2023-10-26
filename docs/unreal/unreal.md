@@ -14,11 +14,10 @@ Lorsque vous créez une nouvelle classe, Unreal vous crée un fichier .h et .cpp
 
 Mais il ajoute également pleins d'espaces vides et de commentaires inutiles.
 
-Vous pouvez modifier ces templates qui se trouvent dans le dossier suivant :
-
+Ces templates se trouvent dans le dossier suivant :
 `../UE_*.*/Engine/Content/Editor/Templates`
 
-Vous pouvez alors ouvrir les fichiers `.template` sur votre IDE et les modifier
+Vous pouvez ouvrir les fichiers `.template` avec votre IDE et les modifier.
 
 {: .warning }
 Evitez de supprimer les macros entourées de % au risque d'avoir des choses manquantes et que votre code ne compile plus
