@@ -28,4 +28,4 @@ Par défaut, Unreal ouvre l'Editeur d'Asset (pour les BP par exemple) dans une n
 
 `Editor Preferences > Appearance > User Interface > Asset Editor Open Location > Main Window`
 
-[![openInTab.png](/images/unreal/openInTab.png)](/images/unreal/openInTab.png)
+[![openInTab.png](/GameDevDB/images/unreal/openInTab.png)](/GameDevDB//images/unreal/openInTab.png)
