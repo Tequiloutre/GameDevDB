@@ -49,3 +49,8 @@ kramdown:
   syntax_highlighter_opts:
     block:
       line_numbers: true
+
+callouts:
+  warning:
+    title: Attention
+    color: red
